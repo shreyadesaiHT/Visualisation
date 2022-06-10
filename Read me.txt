@@ -1,0 +1,2 @@
+1) Give correct filepath.
+2) Give the file path to save the image.
